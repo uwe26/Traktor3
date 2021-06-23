@@ -1,12 +1,10 @@
 <!DOCTYPE html>
-<head>
+<html>
 <body>
-<header>
-    <a href="#">Traktors</a>
-    <a href="#">Grasmaaiers</a>
-    <a href="#">Aanhangers</a>
-</header>
-<input type="email" placeholder="Welke traktor">
-<input type="submit">
-</body>
 
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">grasmaaiers</a></li>
+  <li><a href="#contact">aanhangers</a></li>
+</ul>
+</body>
